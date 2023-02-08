@@ -17,3 +17,5 @@
 "rm" delete file
 
 "rmdir" delete empty directory
+
+"cd -" change to previous directory
