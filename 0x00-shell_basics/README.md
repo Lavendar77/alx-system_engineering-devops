@@ -15,3 +15,5 @@
 "mv" move file
 
 "rm" delete file
+
+"rmdir" delete empty directory
