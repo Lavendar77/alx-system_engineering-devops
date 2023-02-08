@@ -5,3 +5,5 @@
 "cd /root" changes the directory to the user's home directory
 
 "ls -l" displays the content of the current directory in long format
+
+"ls -la" displays the content of the current directory in long format including hidden files
