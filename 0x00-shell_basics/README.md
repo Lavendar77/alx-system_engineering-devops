@@ -25,3 +25,5 @@
 "file filename" print type of file
 
 "ln -s existingfile symlink" create a symlink to existingfile
+
+"cp -u source destination" copy file from source to destination, but only update when source is newer and does not exist
