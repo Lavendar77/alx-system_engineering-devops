@@ -13,3 +13,5 @@
 "mkdir" make directory
 
 "mv" move file
+
+"rm" delete file
