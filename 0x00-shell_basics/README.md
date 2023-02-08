@@ -21,3 +21,5 @@
 "cd -" change to previous directory
 
 "ls -la . .. /boot" list content in current, parent and /boot directories
+
+"file filename" print type of file
