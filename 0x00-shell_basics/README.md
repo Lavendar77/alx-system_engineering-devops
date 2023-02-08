@@ -8,4 +8,4 @@
 
 "ls -la" displays the content of the current directory in long format including hidden files
 
-"ls -lai" displays digits of long formatted content of current directory
+"ls -lan" displays digits of long formatted content of current directory
