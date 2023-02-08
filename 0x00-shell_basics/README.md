@@ -11,3 +11,5 @@
 "ls -lan" displays digits of long formatted content of current directory
 
 "mkdir" make directory
+
+"mv" move file
