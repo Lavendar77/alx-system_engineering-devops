@@ -9,3 +9,5 @@
 "ls -la" displays the content of the current directory in long format including hidden files
 
 "ls -lan" displays digits of long formatted content of current directory
+
+"mkdir" make directory
