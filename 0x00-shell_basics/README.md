@@ -20,4 +20,4 @@
 
 "cd -" change to previous directory
 
-"ls -la . ../ /boot" list content in current, parent and /boot directories
+"ls -la . .. /boot" list content in current, parent and /boot directories
