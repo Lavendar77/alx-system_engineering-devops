@@ -23,3 +23,5 @@
 "ls -la . .. /boot" list content in current, parent and /boot directories
 
 "file filename" print type of file
+
+"ln -s existingfile symlink" create a symlink to existingfile
