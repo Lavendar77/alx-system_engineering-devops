@@ -7,3 +7,5 @@
 "ls -l" displays the content of the current directory in long format
 
 "ls -la" displays the content of the current directory in long format including hidden files
+
+"ls -lai" displays digits of long formatted content of current directory
