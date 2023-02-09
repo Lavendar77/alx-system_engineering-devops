@@ -17,3 +17,5 @@
 "chmod 751 file" grant execute permission to everybody??
 
 "chmod 007 file"grant execute permission to only other users, no permission for owner or group
+
+"chmod file --reference=referencefile" copy mode of referencefile to file
