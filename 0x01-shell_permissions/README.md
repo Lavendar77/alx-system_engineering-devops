@@ -5,3 +5,5 @@
 "whoami" who is the current user
 
 "groups" prints all the groups the current user is in
+
+"chown user file" change owner of "file" to "user"
