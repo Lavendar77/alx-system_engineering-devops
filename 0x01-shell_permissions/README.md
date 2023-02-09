@@ -6,4 +6,6 @@
 
 "groups" prints all the groups the current user is in
 
-"chown user file" change owner of "file" to "user"
+"chown user file" change owner of 'file' to 'user'
+
+"touch" create an empty
