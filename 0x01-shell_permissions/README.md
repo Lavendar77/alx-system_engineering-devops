@@ -3,3 +3,5 @@
 "su username" switch user to username
 
 "whoami" who is the current user
+
+"groups" prints all the groups the current user is in
