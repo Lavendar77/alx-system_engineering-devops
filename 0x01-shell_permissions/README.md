@@ -12,4 +12,4 @@
 
 "chmod u+x file" grant executable permission to the current user for the 'file'
 
-"chmod 114 file" grant execute permission to owner and group, but read to other users
+"chmod 764 file" grant execute permission to owner and group, but read to other users
