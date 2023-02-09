@@ -9,3 +9,5 @@
 "chown user file" change owner of 'file' to 'user'
 
 "touch" create an empty
+
+"chmod u+x file" grant executable permission to the current user for the 'file'
