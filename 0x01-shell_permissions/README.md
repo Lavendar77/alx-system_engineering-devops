@@ -14,6 +14,6 @@
 
 "chmod 754 file" grant execute permission to owner and group, but read to other users
 
-"chmod 777 file" grant execute permission to everybody
+"chmod 751 file" grant execute permission to everybody??
 
 "chmod 007 file"grant execute permission to only other users, no permission for owner or group
